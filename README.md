@@ -25,4 +25,5 @@ DAX (Data Analysis Expressions): Dynamic measures for key KPIs, performance rank
 Interactive Slicers & Drill-Throughs: Cross-filtering across departments, geography, performance buckets, and custom alphabet filters.
 
 5. Screenshot / Demos
-Show the Dashboard looks like.   
+Show the Dashboard looks like. https://github.com/S-Mustakheem/country-share/blob/main/country%20sales%20ss.jpeg
+Example: [Dashboard preview]:(https://github.com/S-Mustakheem/country-share/blob/main/country%20sales%20ss.jpeg)
